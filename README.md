@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: Advanced JavaScript, Tailwind, and Python for Backend development.<br>💬 Ask me about: Frontend development, responsive design...
+🌱 I’m currently learning: React JS, and Express JS for Backend development.<br>💬 Ask me about: Frontend development, responsive design...
 
 
 ## 🌐 Socials:
